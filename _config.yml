@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            emuelu
 tagline:          'sustainable knit and crochet'
 description:      'sustainable knit and crochet'
-url:              http://emuelu.com
+url:              
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           
+  repo:
