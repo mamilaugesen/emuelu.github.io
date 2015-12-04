@@ -17,6 +17,8 @@ author:
   name:           ''
   url:            
 
+patterns.url: http://www.ravelry.com/people/emuelu
+
 paginate:         5
 
 # Custom vars
